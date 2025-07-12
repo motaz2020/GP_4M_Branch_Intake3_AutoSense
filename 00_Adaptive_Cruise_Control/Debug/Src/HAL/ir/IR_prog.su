@@ -1,0 +1,2 @@
+../Src/HAL/ir/IR_prog.c:11:22:HIR_uddtInit	32	static
+../Src/HAL/ir/IR_prog.c:31:22:HIR_uddtReadData	24	static

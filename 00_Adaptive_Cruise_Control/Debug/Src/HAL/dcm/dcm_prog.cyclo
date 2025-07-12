@@ -1,0 +1,5 @@
+dcm_prog.c:13:22:HDCM_init	4
+dcm_prog.c:61:22:HDCM_turnOff	2
+dcm_prog.c:77:22:HDCM_turnOn	4
+dcm_prog.c:109:22:HDCM_changeDirection	4
+dcm_prog.c:136:22:HDCM_controlSpeed	1

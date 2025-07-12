@@ -1,0 +1,13 @@
+../Src/HAL/hc05/hc05_prog.c:12:26:HHC05_uddtInit	24	static
+../Src/HAL/hc05/hc05_prog.c:18:26:HHC05_uddtEnable	24	static
+../Src/HAL/hc05/hc05_prog.c:24:26:HHC05_uddtDisable	24	static
+../Src/HAL/hc05/hc05_prog.c:30:26:HHC05_uddtTransmitByte	24	static
+../Src/HAL/hc05/hc05_prog.c:36:26:HHC05_uddtTransmitString	24	static
+../Src/HAL/hc05/hc05_prog.c:42:26:HHC05_uddtReadDataRegister	24	static
+../Src/HAL/hc05/hc05_prog.c:50:26:HHC05_uddtReceiveByteSynchNonBlocking	24	static
+../Src/HAL/hc05/hc05_prog.c:56:26:HHC05_uddtReceiveStringSynchNonBlocking	24	static
+../Src/HAL/hc05/hc05_prog.c:62:26:HHC05_uddtReceiveStringAsynchBlocking	24	static
+../Src/HAL/hc05/hc05_prog.c:69:26:HHC05_RxIntSetStatus	24	static
+../Src/HAL/hc05/hc05_prog.c:75:26:HHC05_uddtSetCallBackUart1	24	static
+../Src/HAL/hc05/hc05_prog.c:80:26:HHC05_uddtSetCallBackUart2	24	static
+../Src/HAL/hc05/hc05_prog.c:85:26:HHC05_uddtSetCallBackUart6	24	static

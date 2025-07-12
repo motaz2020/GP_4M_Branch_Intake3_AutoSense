@@ -1,0 +1,4 @@
+acc_prog.c:15:6:AACC_vSetSpeedLimit	1
+acc_prog.c:25:6:AACC_vControlingCar	18
+acc_prog.c:125:6:AACC_vStopAcc	3
+acc_prog.c:140:9:AACC_vChangeAccSpeedLimit	3

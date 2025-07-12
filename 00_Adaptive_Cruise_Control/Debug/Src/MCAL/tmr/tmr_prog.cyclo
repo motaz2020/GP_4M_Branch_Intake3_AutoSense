@@ -1,0 +1,11 @@
+tmr_prog.c:12:8:MTMR_vStartTimer	5
+tmr_prog.c:29:8:MTMR_vStopTimer	5
+tmr_prog.c:47:8:MTMR_vSetTimerPrescaler	5
+tmr_prog.c:72:8:MTMR_vEnableTimerOPM	2
+tmr_prog.c:85:8:MTMR_vSetTimerChannelOutput	8
+tmr_prog.c:131:8:MTMR_vSetTimerCMPVal	11
+tmr_prog.c:181:8:MTMR_vSetTimerARR	5
+tmr_prog.c:199:8:MTMR_vClearTimerCount	5
+tmr_prog.c:217:8:MTMR_vEnableTimerICUInt	5
+tmr_prog.c:234:8:MTMR_vSetTimerChannelInput	9
+tmr_prog.c:294:10:MTMR_vReadCaptureVal	13

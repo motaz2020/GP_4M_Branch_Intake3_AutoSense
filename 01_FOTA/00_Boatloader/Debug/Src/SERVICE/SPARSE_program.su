@@ -1,0 +1,3 @@
+../Src/SERVICE/SPARSE_program.c:16:4:PARSE_u8AsciToHex	24	static
+../Src/SERVICE/SPARSE_program.c:34:6:PARSE_voidParseData	24	static
+../Src/SERVICE/SPARSE_program.c:82:6:PARSE_voidParseRecord	16	static

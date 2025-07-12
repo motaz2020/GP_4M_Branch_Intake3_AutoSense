@@ -1,0 +1,4 @@
+../Src/MCAL/rcc/rcc_prog.c:12:23:MRCC_Init	16	static
+../Src/MCAL/rcc/rcc_prog.c:69:23:MRCC_enablePeripheral	24	static
+../Src/MCAL/rcc/rcc_prog.c:112:23:MRCC_disablePeripheral	24	static
+../Src/MCAL/rcc/rcc_prog.c:155:6:HAL_DeInit	4	static

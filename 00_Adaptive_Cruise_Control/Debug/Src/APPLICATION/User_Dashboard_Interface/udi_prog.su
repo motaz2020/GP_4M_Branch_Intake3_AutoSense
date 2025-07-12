@@ -1,0 +1,3 @@
+../Src/APPLICATION/User_Dashboard_Interface/udi_prog.c:12:6:AUDI_vInitInterface	24	static
+../Src/APPLICATION/User_Dashboard_Interface/udi_prog.c:24:6:AUDI_vStandByDashboard	496	static
+../Src/APPLICATION/User_Dashboard_Interface/udi_prog.c:54:6:AUDI_vOnDashboard	344	static

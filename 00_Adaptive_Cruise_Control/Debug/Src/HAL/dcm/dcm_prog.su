@@ -1,0 +1,5 @@
+../Src/HAL/dcm/dcm_prog.c:13:22:HDCM_init	72	static
+../Src/HAL/dcm/dcm_prog.c:61:22:HDCM_turnOff	24	static
+../Src/HAL/dcm/dcm_prog.c:77:22:HDCM_turnOn	24	static
+../Src/HAL/dcm/dcm_prog.c:109:22:HDCM_changeDirection	24	static
+../Src/HAL/dcm/dcm_prog.c:136:22:HDCM_controlSpeed	32	static

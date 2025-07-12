@@ -1,0 +1,5 @@
+../Src/APPLICATION/Lane_Keep_Assistant/LKA_prog.c:13:24:ALKA_uddtGetLanePosition	24	static
+../Src/APPLICATION/Lane_Keep_Assistant/LKA_prog.c:54:24:ALKA_uddtSetCarInLanes	32	static
+../Src/APPLICATION/Lane_Keep_Assistant/LKA_prog.c:103:24:ALKA_left	32	static
+../Src/APPLICATION/Lane_Keep_Assistant/LKA_prog.c:124:24:ALKA_right	32	static
+../Src/APPLICATION/Lane_Keep_Assistant/LKA_prog.c:145:24:ALKA_forward	32	static

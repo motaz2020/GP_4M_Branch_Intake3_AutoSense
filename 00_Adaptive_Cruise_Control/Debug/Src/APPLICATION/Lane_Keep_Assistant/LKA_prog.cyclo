@@ -1,0 +1,5 @@
+LKA_prog.c:13:24:ALKA_uddtGetLanePosition	11
+LKA_prog.c:54:24:ALKA_uddtSetCarInLanes	7
+LKA_prog.c:103:24:ALKA_left	3
+LKA_prog.c:124:24:ALKA_right	3
+LKA_prog.c:145:24:ALKA_forward	3

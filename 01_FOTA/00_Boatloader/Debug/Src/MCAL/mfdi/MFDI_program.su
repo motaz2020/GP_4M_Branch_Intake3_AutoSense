@@ -1,0 +1,3 @@
+../Src/MCAL/mfdi/MFDI_program.c:14:6:MFDI_voidEraseSector	16	static
+../Src/MCAL/mfdi/MFDI_program.c:55:6:MFDI_voidFlashWrite	32	static
+../Src/MCAL/mfdi/MFDI_program.c:95:6:MFDI_voidEraseAppArea	16	static

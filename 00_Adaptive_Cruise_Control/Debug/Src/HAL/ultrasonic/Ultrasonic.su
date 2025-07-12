@@ -1,0 +1,3 @@
+../Src/HAL/ultrasonic/Ultrasonic.c:26:6:UltraSonic_Init	32	static
+../Src/HAL/ultrasonic/Ultrasonic.c:45:6:UltraSonic_Send_Pulse	8	static
+../Src/HAL/ultrasonic/Ultrasonic.c:53:10:UltraSonic_Measure_Distance	24	static

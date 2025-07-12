@@ -1,0 +1,11 @@
+gpio_prog.c:12:24:MGPIO_uddtSetPinMode	5
+gpio_prog.c:31:24:MGPIO_uddtSetOutputMode	4
+gpio_prog.c:50:24:MGPIO_uddtSetOutputSpeed	4
+gpio_prog.c:69:24:MGPIO_uddtSetPullState	4
+gpio_prog.c:87:24:MGPIO_uddtGetPinVal	4
+gpio_prog.c:106:24:MGPIO_uddtSetPinVal	6
+gpio_prog.c:136:24:MGPIO_uddtDirectSetReset	6
+gpio_prog.c:168:24:MGPIO_uddtSetPortVal	2
+gpio_prog.c:185:24:MGPIO_uddtSetAltFun	3
+gpio_prog.c:207:24:MGPIO_uddtInitPin	6
+gpio_prog.c:230:24:MGPIO_uddtInitAltPin	6

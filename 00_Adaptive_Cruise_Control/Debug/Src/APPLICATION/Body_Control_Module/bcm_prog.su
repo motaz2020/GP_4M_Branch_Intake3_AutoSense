@@ -1,0 +1,9 @@
+../Src/APPLICATION/Body_Control_Module/bcm_prog.c:162:6:ESP_Callback	8	static
+../Src/APPLICATION/Body_Control_Module/bcm_prog.c:181:6:HC05_Callback	8	static
+../Src/APPLICATION/Body_Control_Module/bcm_prog.c:193:6:leftcall	4	static
+../Src/APPLICATION/Body_Control_Module/bcm_prog.c:198:6:rightcall	4	static
+../Src/APPLICATION/Body_Control_Module/bcm_prog.c:213:6:ABCM_vSysInit	80	static
+../Src/APPLICATION/Body_Control_Module/bcm_prog.c:364:6:ABCM_vSysMangment	16	static
+../Src/APPLICATION/Body_Control_Module/bcm_prog.c:596:21:ABCM_uddtDetermineCarState	24	static
+../Src/APPLICATION/Body_Control_Module/bcm_prog.c:976:21:ABCM_uddtFaultDetection	24	static
+../Src/APPLICATION/Body_Control_Module/bcm_prog.c:1111:6:ABCM_vThreadMode	16	static

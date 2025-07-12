@@ -1,0 +1,17 @@
+usart_prog.c:15:26:MUSART_uddtInit	9
+usart_prog.c:59:26:MUSART_uddtEnable	2
+usart_prog.c:76:26:MUSART_uddtDisable	2
+usart_prog.c:93:26:MUSART_uddtTransmitByte	4
+usart_prog.c:113:26:MUSART_uddtTransmitString	4
+usart_prog.c:135:26:MUSART_uddtReadDataRegister	4
+usart_prog.c:153:26:MUSART_uddtClearFlags	2
+usart_prog.c:170:26:MUSART_uddtReceiveByteSynchNonBlocking	6
+usart_prog.c:198:27:MUSART_uddtReceiveStringAsynchBlocking	4
+usart_prog.c:223:27:MUSART_uddtReceiveStringSynchNonBlocking	5
+usart_prog.c:250:26:MUSART_RxIntSetStatus	4
+usart_prog.c:273:26:MUSART1_uddtSetCallBack	2
+usart_prog.c:290:26:MUSART2_uddtSetCallBack	2
+usart_prog.c:306:26:MUSART6_uddtSetCallBack	2
+usart_prog.c:324:6:USART1_IRQHandler	1
+usart_prog.c:330:6:USART2_IRQHandler	1
+usart_prog.c:336:6:USART6_IRQHandler	1
